@@ -1,0 +1,132 @@
+
+.u-section-1 {
+    background-image: none;
+  }
+   body{
+    background-color: #00bcff;
+   }
+  .u-section-1 .u-sheet-1 {
+    min-height: 829px;
+  }
+  
+  .u-section-1 .u-image-1 {
+    width: 517px;
+    height: 517px;
+    background-image: url("images/41164052-0.jpeg");
+    background-position: 50% 50%;
+    margin: 18px auto 0;
+  }
+  
+  .u-section-1 .u-text-1 {
+    text-transform: none;
+    letter-spacing: 0px;
+    font-size: 3rem;
+    font-weight: 700;
+    width: 354px;
+    margin: -402px auto 0;
+  }
+  
+  .u-section-1 .u-form-1 {
+    height: 142px;
+    width: 451px;
+    margin: 21px auto 0;
+  }
+  
+  .u-section-1 .u-input-1 {
+    font-size: 1.125rem;
+    text-transform: none;
+    background-image: none;
+  }
+  
+  .u-section-1 .u-btn-1 {
+    font-size: 1.125rem;
+    letter-spacing: 3px;
+    border-style: none;
+    font-weight: 700;
+    text-transform: uppercase;
+    width: 100%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-image: none;
+  }
+  
+  .u-section-1 .u-text-2 {
+    width: 354px;
+    margin: 30px auto 60px;
+  }
+  
+  @media (max-width: 575px) {
+    .u-section-1 .u-sheet-1 {
+      min-height: 652px;
+    }
+  
+    .u-section-1 .u-image-1 {
+      height: 340px;
+      width: 340px;
+      margin-left: 0;
+      margin-right: 0;
+    }
+  
+    .u-section-1 .u-text-1 {
+      font-size: 1.875rem;
+      margin-top: -225px;
+      margin-left: 0;
+      margin-right: 0;
+      width: 340px;
+    }
+  
+    .u-section-1 .u-form-1 {
+      width: 340px;
+      margin-left: 0;
+      margin-right: 0;
+    }
+  
+    .u-section-1 .u-text-2 {
+      margin-left: 0;
+      margin-right: 0;
+      width: 340px;
+    }
+  }
+
+#BMID{
+
+  border:solid;
+  border-radius: 5px;
+  background-color: #ffd200;
+  width: 300px;
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+
+
+}
+#BMID:hover{
+
+  background-color:#00bcff;
+  
+
+}
+#TMID{
+
+  border:solid;
+  border-radius: 5px;
+  background-color: #ffd200;
+  width: 300px;
+  color: black;
+}
+#answerButton{
+
+  width: 250px;
+}
+#meetingID{
+  width: 250px;
+  border: black;
+
+}
+#webcamButton{
+  width: 250px;
+}
+#hangupButton{
+background-color: red!important;
+width: 250px;
+
+}
